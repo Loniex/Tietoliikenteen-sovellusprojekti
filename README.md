@@ -1,2 +1,3 @@
 # Tietoliikenteen sovellusprojekti 
-----Jotain-----
+# Projektin tavoitteet
+# 
