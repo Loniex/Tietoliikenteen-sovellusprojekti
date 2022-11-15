@@ -1,0 +1,7 @@
+iptables -A INPUT -s 193.167.100.97 #oamk.studens.fi backdoor
+
+iptables -A INPUT -p tcp --dport 22 -j ACCEPT # port 22 
+iptables -A INPUT -p tcp --dport 80 -j ACCEPT # port 80
+
+ip6tables -A INPUT -p icmpv6 -j ACCEPT #icmpv6
+iptables -A INPUT -p icmp -j ACCEPT #icmp
