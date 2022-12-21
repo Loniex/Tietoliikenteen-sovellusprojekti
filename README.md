@@ -4,6 +4,8 @@
 # Projekti
 Tämän projektin tarkoituksena oli tehdä RF-lähetin joka lähettää dataa hiihtyvyysanturista, sitten piti toteuttaa K-Means algoritmi pythonilla ja siirtä Arduinolle.
 
+[Posteri.pdf](https://github.com/Loniex/Tietoliikenteen-sovellusprojekti/files/10275056/Posteri.pdf)
+
 # Sisältö
 | Number| Branch |
 |-----:|-----------|
