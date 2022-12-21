@@ -1,7 +1,7 @@
 # Tietoliikenteen sovellusprojekti 
 ![Diagram](https://user-images.githubusercontent.com/101668131/208833099-9706b566-64f6-4397-afa3-aed6e4477ca6.png)
 
-# Tavoitteet
+# Projekti
 Tämän projektin tarkoituksena oli tehdä RF-lähetin joka lähettää dataa hiihtyvyysanturista, sitten piti toteuttaa K-Means algoritmi pythonilla ja siirtä Arduinolle.
 
 # Sisältö
