@@ -1,13 +1,18 @@
 # Tietoliikenteen sovellusprojekti 
-![DIA](https://user-images.githubusercontent.com/101668131/200250619-b268b3bd-c3f3-4a3a-b4e3-0e8353f3577d.png)
-# Projektin tavoitteet
-> Koodata Arduinolle client, joka mittaa kiihtyvyysanturin dataa ja välittää tietoa langattomasti IoT-reitittimelle valmiiksi annetun speksin mukaisesti.
+![Diagram](https://user-images.githubusercontent.com/101668131/208833099-9706b566-64f6-4397-afa3-aed6e4477ca6.png)
 
-— 2022
+# Tavoitteet
+Tämän projektin tarkoituksena oli tehdä RF-lähetin joka lähettää dataa hiihtyvyysanturista, sitten piti toteuttaa K-Means pythonilla ja Arduinolle.
 
+# Sisältö
 | Numero | Tavoite |
 |-----:|-----------|
-|     1|           |
-|     2|           |
+|     1|       main|
+|     2|    K-means|
+|     3| K-means-pytohn|
+|     3|           |
+|     3|           |
+|     3|           |
+|     3|           |
 |     3|           |
 
