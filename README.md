@@ -9,10 +9,8 @@ Tämän projektin tarkoituksena oli tehdä RF-lähetin joka lähettää dataa hi
 |-----:|-----------|
 |     1|       main|
 |     2|    K-means|
-|     3| K-means-pytohn|
-|     3|           |
-|     3|           |
-|     3|           |
-|     3|           |
-|     3|           |
+|     3| K-means-python|
+|     4|           RF|
+|     5|           arduinotest|
+|     6|           linux-kokeilut|
 
