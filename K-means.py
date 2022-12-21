@@ -29,7 +29,7 @@ def calc(P1,P2):
 #print(calc(centerPointCumulativeSum[0],centerPointCumulativeSum[1]))
 
 check=0
-NumberOfSimulations = 10
+NumberOfSimulations = 10000
 
 for j in range(NumberOfSimulations):
  centerPointCumulativeSum=np.array([[0,0,0],[0,0,0],[0,0,0],[0,0,0]])
