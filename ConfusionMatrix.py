@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import metrics
 
-data=np.loadtxt("putty.log")
+data=np.loadtxt("puttyCM.log")
 actual=data[::2]
 predicted=data[1::2]
 print(actual)
