@@ -1,13 +1,5 @@
-# Tietoliikenteen sovellusprojekti 
-![DIA](https://user-images.githubusercontent.com/101668131/200250619-b268b3bd-c3f3-4a3a-b4e3-0e8353f3577d.png)
-# Projektin tavoitteet
-> Koodata Arduinolle client, joka mittaa kiihtyvyysanturin dataa ja välittää tietoa langattomasti IoT-reitittimelle valmiiksi annetun speksin mukaisesti.
-
-— 2022
-
-| Numero | Tavoite |
-|-----:|-----------|
-|     1|           |
-|     2|           |
-|     3|           |
+# Linux kokeilut
+Tämä haara on tehty viikon tehtäville 1, 3 ja 4.
+En ole varma mitä pitäisi laittaa tänne, joten tässä on Word-asiakirjani.
+> https://oamk-my.sharepoint.com/:w:/g/personal/t1ivan00_students_oamk_fi/EYOqzlFjRDxHkTNKSHYRQMUBj61z74uOUzdciFsA6jllsw?e=znLZ31
 
