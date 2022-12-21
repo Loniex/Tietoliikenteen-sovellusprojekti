@@ -1,12 +1,5 @@
-# Tietoliikenteen sovellusprojekti 
-# Projektin tavoitteet
-> Koodata Arduinolle client, joka mittaa kiihtyvyysanturin dataa ja välittää tietoa langattomasti IoT-reitittimelle valmiiksi annetun speksin mukaisesti.
-
-— 2022
-
-| Numero | Tavoite |
-|-----:|-----------|
-|     1|           |
-|     2|           |
-|     3|           |
-
+#K-means
+Tässä haarassa on K-means algoritmin koodi Arduinolle. 
+Se arvioi kiihdytinanturin nykyisen sijainnin 3D-avaruudessa.
+#Confusion Matrix
+Confusion Matrix tarjoaa tietoa tämän algoritmin tarkkuudesta![Confusion matrix](https://user-images.githubusercontent.com/101668131/208823935-dcfcdc12-4cd6-4104-adb4-a2a1d8440ede.png)
