@@ -65,11 +65,3 @@ file=open("keskipisteet.h","w+")
 content=str(kp)
 file.write(content)
 file.close()
-      
-
-
-#ax=plt.axes(projection="3d")
-#ax.scatter3D(data[1],data[2], color = "green")
-#plt.title("3D")
- 
-#splt.show()
