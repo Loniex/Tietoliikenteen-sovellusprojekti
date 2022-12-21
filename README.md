@@ -1,3 +1,4 @@
+# K-means Pythonilla 
 Tässä haarassa on Pythonilla kirjoitettu K-means-algoritmi.
 Sitä käytetään ensin algoritmin kehittämiseen ja sitten sen kalibroimiseen, jotta sitä voidaan käyttää Arduinossa.
 
