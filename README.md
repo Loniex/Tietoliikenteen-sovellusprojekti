@@ -5,7 +5,7 @@
 Tämän projektin tarkoituksena oli tehdä RF-lähetin joka lähettää dataa hiihtyvyysanturista, sitten piti toteuttaa K-Means pythonilla ja Arduinolle.
 
 # Sisältö
-| NNumber| Branch |
+| Number| Branch |
 |-----:|-----------|
 |     1|       main|
 |     2|    K-means|
